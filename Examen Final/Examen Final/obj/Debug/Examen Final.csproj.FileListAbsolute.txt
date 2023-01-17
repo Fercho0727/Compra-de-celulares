@@ -1,0 +1,11 @@
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\bin\Debug\Examen Final.exe.config
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\bin\Debug\Examen Final.exe
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\bin\Debug\Examen Final.pdb
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen Final.csproj.AssemblyReference.cache
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen Final.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen_Final.Form1.resources
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen_Final.Properties.Resources.resources
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen Final.csproj.GenerateResource.cache
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen Final.csproj.CoreCompileInputs.cache
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen Final.exe
+D:\Universidad\SEGUNDO AÑO\Programacion IIA\Cuarto Trimestre\Tareas Entregadas\Examen Final\Examen Final\obj\Debug\Examen Final.pdb
